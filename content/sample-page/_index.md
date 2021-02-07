@@ -1,28 +1,14 @@
 ---
-title: "Sample Page"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
+title: Sample Page
+description: This is meta description
+
 ---
+<p> Это пример страницы. Он отличается от сообщения в блоге, потому что он останется в одном месте сайту в навигации по вашему (в большинстве тем). Большинство людей начинают со страницы «О нас», которая знакомит их с потенциальными посетителями сайта. Он мог бы сказать что-то вроде этого: </p>
 
-<p>This is an example page. It&#8217;s different from a blog post because it will stay in one place and will show
-up in your site navigation (in most themes). Most people start with an About page that introduces them to
-potential site visitors. It might say something like this:</p>
+<blockquote class = "wp-block-quote"> <p> Привет! Днем я вел курьер, а ночью начинающий актер, и это мой сайт. Я живу в Лос-Анджелесе, у меня есть отличная собака по имени Джек, и мне нравится пинья-колада. (И попадаю под дождь.) </p> </blockquote>
 
-<blockquote class="wp-block-quote">
-<p>Hi there! I&#8217;m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los
-Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin&#8217; caught in the rain.)
-</p>
-</blockquote>
+<p>… или что-то вроде этого: </p>
 
-<p>&#8230;or something like this:</p>
+<blockquote class = "wp-block-quote"> <p> Компания XYZ Doohickey была основана в 1971 году и с тех пор поставет качественные doohickey публике. Компания XYZ, расположенная в Готэм-сити, насчитывает более 2000 человек и делает много замечательных вещей для сообщества Готэма. </p> </blockquote>
 
-<blockquote class="wp-block-quote">
-<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever
-since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the
-Gotham community.</p>
-</blockquote>
-
-<p>As a new WordPress user, you should go to your dashboard to delete this
-page and create new pages for your content. Have fun!</p>
+<p> Как новый пользователь WordPress, вы должны перейти на свою панель управления, чтобы удалить эту страницу и создать новые для своего контента. Удачи! </p>
